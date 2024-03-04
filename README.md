@@ -23,9 +23,9 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
-
+![Video Walkthrough](https://i.imgur.com/6gSuGF5.gif)
 Walkthrogh gif included in files. Couldn't get gif to link to README.md.
-<img src='https://i.imgur.com/6gSuGF5.gif' title='Video Walkthrough' width= 100px alt='Video Walkthrough' />
+<img src='https://i.imgur.com/6gSuGF5.gif' title='Video Walkthrough' width= 500px alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
